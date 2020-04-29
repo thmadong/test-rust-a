@@ -11,4 +11,3 @@ fn test_print() {
 	Logger::debug(s);
 	Logger::error(s);
 }
-
